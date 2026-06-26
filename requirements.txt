@@ -1,0 +1,9 @@
+Numpy
+Pandas
+Matplotlib
+Seaborn
+scikit-learn
+FastAPI
+streamlit
+ipykernel
+xgboost
